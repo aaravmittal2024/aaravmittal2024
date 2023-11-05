@@ -1,39 +1,48 @@
-<div align="center">
-  <h2>👋 Hi, I'm @aaravmittal2024</h2>
-</div>
+<h1 align="center">👋 Hi, I'm Aarav Mittal (@aaravmittal2024)</h1>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150/000080/FFD700?text=+" width="100%">
+  <strong>I'm on a mission to merge computer science with social innovation.</strong> 🚀
 </p>
 
-<div align="justify">
-  👀 I’m interested in harnessing the power of computer science to solve pressing social problems. I believe technology has the potential to create significant positive change in our communities, and I'm passionate about being a part of that transformation.
-</div>
+<p align="justify">
+  As a dedicated high school student, I'm engrossed in the world of advanced programming and critical thinking methodologies. My goal is to harness these skills to propel social entrepreneurship. Technology, in my eyes, is a powerful catalyst for community and global enhancement. I'm passionate, driven, and ready to contribute to the technological metamorphosis that leads to societal betterment.
+</p>
 
-<div align="justify">
-  🌱 I’m currently learning advanced programming languages and thinking techniques and exploring the intersection of technology and social entrepreneurship. As a high school student, I'm keen on absorbing as much knowledge as possible to prepare myself for a future where I can make a real difference.
-</div>
+<p align="center">
+  🌐 I’m currently learning:
+  <ul align="center">
+    <li>Advanced programming languages like Python, Java, and JavaScript</li>
+    <li>System design and architecture</li>
+    <li>Data structures and algorithms for efficient problem-solving</li>
+    <li>Cutting-edge technologies such as AI, blockchain, and cloud computing</li>
+  </ul>
+</p>
 
-<div align="justify">
-  💞️ I’m looking to collaborate on projects that aim to address social issues through innovative tech solutions. Whether it's developing apps for social good or creating platforms that empower communities, I'm all in.
-</div>
+<p align="center">
+  💞️ I'm looking to collaborate:
+  <ul align="center">
+    <li>On projects focused on social good</li>
+    <li>With like-minded individuals passionate about tech and social change</li>
+    <li>With NGOs to develop technological solutions that aid their causes</li>
+    <li>On open-source projects that aim for a broad, positive impact</li>
+  </ul>
+</p>
 
-<div align="center">
+<p align="center">
   📫 How to reach me:
-</div>
-
-<div align="center">
+  <br>
   <a href="mailto:aarav.mittal.ma@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/Email-aarav.mittal.ma%40gmail.com-blue" alt="Email">
   </a>
+  <br>
+  Feel free to reach out for discussions, collaborations or just to say hi! I'm always excited to connect with new people and share ideas.
+</p>
+
+<p align="center">
   <a href="https://github.com/aaravmittal2024">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/github/followers/aaravmittal2024?label=Follow%20@aaravmittal2024&style=social" alt="GitHub">
   </a>
-</div>
+</p>
 
-<!-- This is a special comment section that won't be displayed in the README -->
+<!-- This is a ✨ special ✨ repository because its `README.md` (this file) stands as a beacon calling for innovative collaboration. -->
 
-<!--
-aaravmittal2024/aaravmittal2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
